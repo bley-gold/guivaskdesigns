@@ -25,3 +25,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# MacOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Netlify
+.netlify/
